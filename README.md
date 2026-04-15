@@ -31,3 +31,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/jogeshd/recomet.git
 cd recomet
+cd recomet
+python3 recomet.py -t example.com --all
+```
+
